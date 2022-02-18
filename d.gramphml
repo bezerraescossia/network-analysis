@@ -1,0 +1,3678 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="folha" />
+    <node id="jcnogueiras" />
+    <node id="ClausFarscape" />
+    <node id="folha_mundo" />
+    <node id="jmm45_" />
+    <node id="UOLNoticias" />
+    <node id="digitarotexto" />
+    <node id="comculturaearte" />
+    <node id="treski98" />
+    <node id="Marquin68880061" />
+    <node id="niltonviscaino" />
+    <node id="UOL" />
+    <node id="Marcioal1971" />
+    <node id="erison_s_lima" />
+    <node id="Prof_Adelino_" />
+    <node id="IlzaAntniadeSo1" />
+    <node id="dep_padrejoao" />
+    <node id="PauloRicadobs" />
+    <node id="wilderlove_mg" />
+    <node id="profeborto" />
+    <node id="PedroLi41542560" />
+    <node id="paivatuc" />
+    <node id="AnddreHC" />
+    <node id="BrasilPost13" />
+    <node id="LeSartori2" />
+    <node id="sandra_miria" />
+    <node id="SigaGazetaBR" />
+    <node id="Patrici95539848" />
+    <node id="dansrodr" />
+    <node id="MoniCezimbra" />
+    <node id="CsardeBarros3" />
+    <node id="emolivei" />
+    <node id="heliopaz" />
+    <node id="verabrilhante1" />
+    <node id="Ram1Felipe" />
+    <node id="DuduCompanheiro" />
+    <node id="melmaridis" />
+    <node id="OluisHeavy" />
+    <node id="MRBernardo_" />
+    <node id="FernandoRGJesu1" />
+    <node id="ninabrodri" />
+    <node id="lucc_marcell" />
+    <node id="RduMar2" />
+    <node id="edno01" />
+    <node id="primasilenciosa" />
+    <node id="viega29" />
+    <node id="lendo_no_frio" />
+    <node id="naninaleo" />
+    <node id="Concurseiro32" />
+    <node id="olhardigital" />
+    <node id="luanadarby_" />
+    <node id="Diogo_02000" />
+    <node id="RafaelG64084392" />
+    <node id="agimediata" />
+    <node id="jganico" />
+    <node id="Mariade83890111" />
+    <node id="LeoLibertino" />
+    <node id="DavidRozar" />
+    <node id="JGZZZO" />
+    <node id="Mac1984Pat" />
+    <node id="SanguineEliane" />
+    <node id="EruIlvatar10" />
+    <node id="Rob_Pollo" />
+    <node id="uairraul" />
+    <node id="renata_cads" />
+    <node id="guilafirmino" />
+    <node id="Griesbach_" />
+    <node id="Lica2018" />
+    <node id="eleicoeseuropa" />
+    <node id="Gustavo_Paim" />
+    <node id="junior_cpt" />
+    <node id="btu_dj" />
+    <node id="eu_fa_tima" />
+    <node id="CrancoDo" />
+    <node id="aravenjpg" />
+    <node id="Irancenildo" />
+    <node id="leandroruschel" />
+    <node id="cleber_rodf" />
+    <node id="RegisLSerpa" />
+    <node id="SeedScience" />
+    <node id="tiflografia" />
+    <node id="LuciaCa25989954" />
+    <node id="luisnassif" />
+    <node id="JMeyer04317299" />
+    <node id="gabe_masc" />
+    <node id="PauloRo56323041" />
+    <node id="petetreze" />
+    <node id="De2011vargas" />
+    <node id="GuilhermeKarlBR" />
+    <node id="cegaliii" />
+    <node id="CarlosH68608002" />
+    <node id="FabioLe79441763" />
+    <node id="RoneySoares14" />
+    <node id="CaluReis" />
+    <node id="b3ablanco" />
+    <node id="jusano1968" />
+    <node id="ClaudiaCostin" />
+    <node id="angelolelio" />
+    <node id="marciopaz" />
+    <node id="Jonhconstsntine" />
+    <node id="brenohge" />
+    <node id="Izaltinobduart1" />
+    <node id="JbrenoJorge" />
+    <node id="_evso" />
+    <node id="brom_elisa" />
+    <node id="PaulinoElison" />
+    <node id="CNNBrasil" />
+    <node id="Reginalamaral" />
+    <node id="alissonpantuza" />
+    <node id="Junior10297390" />
+    <node id="cicatriz06" />
+    <node id="JooBati47318744" />
+    <node id="rcbmcarlos" />
+    <node id="freu_rodrigues" />
+    <node id="EvandroIvymax59" />
+    <node id="JosNunesPereir2" />
+    <node id="efigeni57887554" />
+    <node id="JoseDanelon1" />
+    <node id="MuriloNuud" />
+    <node id="MineOrion" />
+    <node id="DestroAvante" />
+    <node id="MariaXimeness" />
+    <node id="JNegocios" />
+    <node id="rubensousa20" />
+    <node id="Tri04Maria" />
+    <node id="edcar1811" />
+    <node id="Soniamfbarbosa" />
+    <node id="Beth9Rosa" />
+    <node id="ConceicaoBassi" />
+    <node id="RightwayLeo" />
+    <node id="LavosieP" />
+    <node id="VoxGilmar" />
+    <node id="marioasouza72" />
+    <node id="IzaVicent" />
+    <node id="gabriellerochag" />
+    <node id="TerezaFelipeGo" />
+    <node id="ibopeenquetes" />
+    <node id="InigoMo36202487" />
+    <node id="RobertoVieira10" />
+    <node id="WinicyusRodrig5" />
+    <node id="SERGIOSAJU1" />
+    <node id="claudio_hahn" />
+    <node id="Alvarob42" />
+    <node id="hsm_fisico" />
+    <node id="Ru1zV1cente" />
+    <node id="BarbosaIraci" />
+    <node id="NETINHOOFICIAL3" />
+    <node id="dear58teacher" />
+    <node id="JorgeFe76186279" />
+    <node id="nhbrazil" />
+    <node id="saynarry" />
+    <node id="paulonbjr" />
+    <node id="Fabiano_30" />
+    <node id="NadedjaM" />
+    <node id="Edson63741803" />
+    <node id="AlanQCarvalho" />
+    <node id="PbSerafim" />
+    <node id="camposmello" />
+    <node id="_Cesar______" />
+    <node id="elisangelacali2" />
+    <node id="beatrizsilvacs" />
+    <node id="claudiarsleo" />
+    <node id="chrcolorado" />
+    <node id="MedeirosNeto8" />
+    <node id="carlosalberarte" />
+    <node id="RtbMoyses" />
+    <node id="Josegarcian" />
+    <node id="suruagymotta" />
+    <node id="AndersonSman" />
+    <node id="SilvaMarcosrj" />
+    <node id="Antonio02828110" />
+    <node id="Andr20399566" />
+    <node id="ginholol" />
+    <node id="Assuno65543547" />
+    <node id="amparo83934203" />
+    <node id="Sueli62577140" />
+    <node id="catarinabento99" />
+    <node id="Jor_Cristina" />
+    <node id="ECO_PT" />
+    <node id="FilippoGiov" />
+    <node id="carlosBiola" />
+    <node id="canteiro_hugo" />
+    <node id="Tita68318927" />
+    <node id="MCarmoBorges" />
+    <node id="euteleca" />
+    <node id="SauloSoaresRei1" />
+    <node id="NACILIA" />
+    <node id="FLAVIONOGUEIRA" />
+    <node id="Gianamonteggia" />
+    <node id="edishi62" />
+    <node id="MarchaDaFamili1" />
+    <node id="Gotardosc" />
+    <node id="AlessandroMrc16" />
+    <node id="nildodornelas" />
+    <node id="MARCOAN61721374" />
+    <node id="PabloCe66063786" />
+    <node id="machadofnd" />
+    <node id="fagundes_nario" />
+    <node id="joaomartinswav" />
+    <node id="InesCisneiros" />
+    <node id="VonosoM" />
+    <node id="luis_mascarello" />
+    <node id="elson_fragno" />
+    <node id="mauriliosique11" />
+    <node id="marcelofi1978" />
+    <node id="ignatti_junior" />
+    <node id="mauromdsd" />
+    <node id="JoaoEdilsonDoN1" />
+    <node id="novaes_monteiro" />
+    <node id="Menino_maiki" />
+    <node id="LinkedInprosjob" />
+    <node id="JNOGUEI48946827" />
+    <node id="sophiezb" />
+    <node id="joaogerardobr" />
+    <node id="vagnoferreirali" />
+    <node id="williamfsgv" />
+    <node id="boikomarta" />
+    <node id="LUCIANO32346360" />
+    <node id="Metropoles" />
+    <node id="DosJanaiara" />
+    <node id="CiroGomes_2022_" />
+    <node id="anerikel" />
+    <node id="Clodoal32241459" />
+    <node id="Uniarea" />
+    <node id="QBertulli" />
+    <node id="FernandoStrosc2" />
+    <node id="Welling97404083" />
+    <node id="GilmarR17392478" />
+    <node id="LgConservador" />
+    <node id="cdouglasdiniz" />
+    <node id="KamillaES" />
+    <node id="maycon19903" />
+    <node id="laragalhardo" />
+    <node id="vita_teodoro" />
+    <node id="NM47309289" />
+    <node id="AprendaComTC" />
+    <node id="LeticiaMatsuura" />
+    <node id="JosoirL" />
+    <node id="MelilloDinis" />
+    <node id="anacampos_cb" />
+    <node id="ThiagoCabralNL" />
+    <node id="V4ldeir0fic" />
+    <node id="ecoleila" />
+    <node id="Manoelmjunior" />
+    <node id="EderGSantos1" />
+    <node id="iCakeHrry" />
+    <node id="DrowerPeter" />
+    <node id="tiagoserracunha" />
+    <node id="pedro_mfcardoso" />
+    <node id="RennyoMelo" />
+    <node id="MartinhoSsa" />
+    <node id="helenagsoo" />
+    <node id="dudu_santana05" />
+    <node id="daniarriba" />
+    <node id="mendesluizpaulo" />
+    <node id="Flags1996" />
+    <node id="daviddinis" />
+    <node id="TiagoCatrola77" />
+    <node id="AndrPatriota" />
+    <node id="AdrianiCaap" />
+    <node id="Fernand00livier" />
+    <node id="Wellingtomaanjo" />
+    <node id="eugeniorib1958" />
+    <node id="CrespoSandrini" />
+    <node id="DireitaNego" />
+    <node id="LautertThiago" />
+    <node id="PATRlOTAS" />
+    <node id="ItamarRibeiroD8" />
+    <node id="EstadoReformis1" />
+    <node id="MGun45" />
+    <node id="silasv2" />
+    <node id="Marcelodwc45tr0" />
+    <node id="FabimBrasil" />
+    <node id="cclpositive" />
+    <node id="annylton" />
+    <node id="imjusthugo" />
+    <node id="Estadao" />
+    <node id="bentiviamarelin" />
+    <node id="Eduardost38" />
+    <node id="ElinanRaiz38" />
+    <node id="ednaldo53383712" />
+    <node id="isabel_tn" />
+    <node id="RicardoCarmo_" />
+    <node id="derDeOliveiraL2" />
+    <node id="reginatto38" />
+    <node id="EdsonGPlobao" />
+    <node id="dineisalazar" />
+    <node id="RUTOLIMAC" />
+    <node id="Alessan12225995" />
+    <node id="nelsonpaffi" />
+    <node id="Airtonplima" />
+    <node id="almirpiccoli" />
+    <node id="avaldetaro" />
+    <node id="euronewspt" />
+    <node id="verdeamarelou" />
+    <node id="ferraz_antonio" />
+    <node id="albericojr1" />
+    <node id="marsubarb" />
+    <node id="wellintonviana1" />
+    <node id="Glaaalves" />
+    <node id="jairbianco66" />
+    <node id="HumbertoAntun12" />
+    <node id="ConservadorDf" />
+    <node id="1984Patriota" />
+    <node id="viajantebx" />
+    <node id="NinnoValerio" />
+    <node id="antonio21612138" />
+    <node id="JJRConservador" />
+    <node id="SniaGom83571980" />
+    <node id="IsaacOliveira57" />
+    <node id="zigfriddark" />
+    <node id="herom_jabbur" />
+    <node id="GloboNews" />
+    <node id="oyarzabalsolan1" />
+    <node id="msantop" />
+    <node id="MAURICI03301501" />
+    <node id="CezarPGuimares1" />
+    <node id="silvasidney" />
+    <node id="anarecipriani" />
+    <node id="c_acfreitas" />
+    <node id="jr_vaine" />
+    <node id="12Pbpaulo" />
+    <node id="jldiniz1" />
+    <node id="JoaoFar55605420" />
+    <node id="ediberto_lopes" />
+    <node id="FernandoJAIRBO1" />
+    <node id="LeonySousa6" />
+    <node id="AnaLuci19497629" />
+    <node id="AlemSincer1" />
+    <node id="soumaisanapolis" />
+    <node id="ManoelRigheti" />
+    <node id="Marc49machado" />
+    <node id="carri_guilherme" />
+    <node id="LopesErbis" />
+    <node id="sandramariaram5" />
+    <node id="seque_alberto" />
+    <node id="LuhStrachulski" />
+    <node id="CiristaBaiano" />
+    <node id="joao_merisio" />
+    <node id="joaoteixeira578" />
+    <node id="ManuelFabio10" />
+    <node id="MarcyellS" />
+    <node id="saulomunizc" />
+    <node id="MarliFerreiraBo" />
+    <node id="JuarezDuarte" />
+    <node id="em_com" />
+    <node id="ElisetePena" />
+    <node id="tbmvb" />
+    <node id="SammirSouza" />
+    <node id="AleDireita" />
+    <node id="NelsonR69631579" />
+    <node id="Renata86285002" />
+    <node id="PauloLucindo1" />
+    <node id="MauroVFilho" />
+    <node id="muylaerte" />
+    <node id="alegianedo" />
+    <node id="fdantonio9999" />
+    <node id="FernandoAraraq" />
+    <node id="FlavioL24182062" />
+    <node id="1003Marcelo" />
+    <node id="francis06692406" />
+    <node id="Fabi65207143" />
+    <node id="alexand46154681" />
+    <node id="IRISGENA" />
+    <node id="EderRamos08" />
+    <node id="rosyfarias" />
+    <node id="rayfonsecaneto" />
+    <node id="MarkInxperto" />
+    <node id="Pedroojota29" />
+    <node id="EdimilsonNunes5" />
+    <node id="AndrettoCintia" />
+    <node id="picapau115" />
+    <node id="CacicAjuricaba" />
+    <node id="Rdebusa" />
+    <node id="wprotheus" />
+    <node id="FariasGois" />
+    <node id="roger_rrfreitas" />
+    <node id="MendesOnca" />
+    <node id="CandiaCrf" />
+    <node id="Alexmas1" />
+    <node id="valmi67990438" />
+    <node id="georgesp74" />
+    <node id="nogueiradiego" />
+    <node id="jatobatiago" />
+    <node id="marcelosalest" />
+    <node id="VMattos63" />
+    <node id="Publico" />
+    <node id="AHeartThinking" />
+    <node id="Fran56326917" />
+    <node id="serlifreitas94" />
+    <node id="rsandroedu" />
+    <node id="SalesZednik" />
+    <node id="JCSimonassi" />
+    <node id="SocMilitar" />
+    <node id="DiasDougfotos" />
+    <node id="Marina29043841" />
+    <node id="MariadaGraaTav3" />
+    <node id="Be_neviani" />
+    <node id="Conteudo_Livre" />
+    <node id="Wgner" />
+    <node id="Dulobs1" />
+    <node id="JeanFabricioCo1" />
+    <node id="MontanhasGerais" />
+    <node id="victorgrabois1" />
+    <node id="eduguim" />
+    <node id="MariaCidada1" />
+    <node id="ronneyribeiro" />
+    <node id="Tonycos44909508" />
+    <node id="RogrioJosPinto1" />
+    <node id="CESARAMARALNET1" />
+    <node id="montandonet" />
+    <node id="Moura17941876" />
+    <node id="ZevelosoX" />
+    <node id="fabiocs" />
+    <node id="suzyfleury" />
+    <node id="duchaves" />
+    <node id="AngeloGenta" />
+    <node id="CamaraLisboa" />
+    <node id="CarolinaFresc03" />
+    <node id="Mmoreirabarreto" />
+    <node id="Rubens_Zen" />
+    <node id="soniaTangari" />
+    <node id="BRENOJOSANDRAD1" />
+    <node id="nhmaruyama" />
+    <node id="Henriquealysso" />
+    <node id="andidreia1" />
+    <node id="politiccharts" />
+    <node id="roxmo" />
+    <node id="FernandoMagri" />
+    <node id="andreoli69" />
+    <node id="christianccruz_" />
+    <node id="rtppt" />
+    <node id="SarreaIza" />
+    <node id="14Orlando04" />
+    <node id="Carlos91433342" />
+    <node id="TerraBrasilnot" />
+    <node id="EduardoJesusAn4" />
+    <node id="lwtdog" />
+    <node id="caayoalves" />
+    <node id="opressor_es" />
+    <node id="CruzeiroSaff" />
+    <node id="JoseeMadeira" />
+    <node id="renatovilhena" />
+    <node id="InteriorizarPND" />
+    <node id="Fonsecazeno" />
+    <node id="deiahallak" />
+    <node id="DenunciaBurlas" />
+    <node id="jmedeiros71" />
+    <node id="henriquelorezo" />
+    <node id="Luciola68148379" />
+    <node id="IvoCard48587304" />
+    <node id="Fe2Forca" />
+    <node id="Eliene52954058" />
+    <node id="fcrf30" />
+    <node id="AriCaodaglio" />
+    <node id="eng_trabeduardo" />
+    <node id="MVerdenssen" />
+    <node id="dorinha91" />
+    <node id="paulopsbln" />
+    <node id="luizhbcosta" />
+    <node id="marcf7" />
+    <node id="LeonardoMDias2" />
+    <node id="VivianeEASilva" />
+    <node id="ii_baltazar" />
+    <node id="bicudo2000" />
+    <node id="Nascime88935799" />
+    <node id="RafaelRAM827" />
+    <node id="Mariado57742075" />
+    <node id="JosAndr37881509" />
+    <node id="LuizOficialFe25" />
+    <node id="JoseOliveirado9" />
+    <node id="PercepcaoN" />
+    <node id="CarlosA59996008" />
+    <node id="ZazaS_" />
+    <node id="DiegoSilvaBra38" />
+    <node id="DRRIBOLDI" />
+    <node id="Ezequiasns" />
+    <node id="josimar1966" />
+    <node id="Ravoline" />
+    <node id="mmaia2709" />
+    <node id="lulafalcao" />
+    <node id="dudapoeta64" />
+    <node id="EAzouf" />
+    <node id="mc19092018" />
+    <node id="Omzan" />
+    <node id="amorim_pericles" />
+    <node id="PatrickSarrea" />
+    <node id="ddeinhass1" />
+    <node id="Victor50539039" />
+    <node id="WillameMoreira" />
+    <node id="edufazol" />
+    <node id="ADILSON03968655" />
+    <node id="LulaOficial" />
+    <node id="SandraLuizadea2" />
+    <node id="JoiaLeo" />
+    <node id="GuiSilv22214851" />
+    <node id="srdarsie" />
+    <node id="jlgoncalez" />
+    <node id="Ricardokiari" />
+    <node id="Anny815892212" />
+    <node id="asbeiras" />
+    <node id="Carlos007Joao" />
+    <node id="BobM08083734" />
+    <node id="Maicon12rosa12" />
+    <node id="Rodrigo06177033" />
+    <node id="Monikysaquino" />
+    <node id="maurobueno65" />
+    <node id="Centuriao1000" />
+    <node id="htutini" />
+    <node id="Maroka56029229" />
+    <node id="Luciano86440887" />
+    <node id="MargarethGoes4" />
+    <node id="ReSalmoiraghi" />
+    <node id="jjamaral2gmail1" />
+    <node id="ElcirLopes" />
+    <node id="MarinaB32292241" />
+    <node id="tito_bastos" />
+    <node id="RosanaMarciaG" />
+    <node id="chicaobmf" />
+    <node id="WESLEYWBP" />
+    <node id="Ordemprogresso7" />
+    <node id="Zasandri" />
+    <node id="munizhenrique1" />
+    <node id="ulissescastanha" />
+    <node id="Trunfim" />
+    <node id="Srgio45860350" />
+    <node id="gauchotchejulio" />
+    <node id="alanbarretoso" />
+    <node id="LeniltonMendes" />
+    <node id="joneswave" />
+    <node id="ptriste" />
+    <node id="jairleite096" />
+    <node id="dinhopereira01" />
+    <node id="josiaslide" />
+    <node id="SusanaARRUDA5" />
+    <node id="SilvaGSilva2" />
+    <node id="LilianaValente" />
+    <node id="GabrielBalog" />
+    <node id="LRobertoBarroso" />
+    <node id="CelMatrio" />
+    <node id="SelmaRosario16" />
+    <node id="us_oliveira" />
+    <node id="RafaelMGobbo1" />
+    <node id="brasildefato" />
+    <node id="rogerio17312297" />
+    <node id="William_Botelh" />
+    <node id="Gabriel6828" />
+    <node id="leovasco10" />
+    <node id="GrandeArquyteto" />
+    <node id="Bernilton" />
+    <node id="GalvaoLione" />
+    <node id="EdyRodrigues88" />
+    <node id="jleites58" />
+    <node id="ubaldobarbosa" />
+    <node id="Vasques_Flavio9" />
+    <node id="berlitz" />
+    <node id="PauloAr90832347" />
+    <node id="Ronaldo_Lopes72" />
+    <node id="Luciano38258831" />
+    <node id="fau_lf" />
+    <node id="AeromacleParts" />
+    <node id="LigiaGuerra7" />
+    <node id="patrocinio_7" />
+    <node id="Gavazziesther28" />
+    <node id="OObserv89445948" />
+    <node id="lisztd1" />
+    <node id="pri2013" />
+    <node id="jose_csampaio" />
+    <node id="MonicaFig1970" />
+    <node id="willer3d3" />
+    <node id="lopesgenevaldo1" />
+    <node id="carlosv96851" />
+    <node id="ValoisCida" />
+    <node id="MargarethAlva12" />
+    <node id="OrlandoGalati3" />
+    <node id="CardosoZL" />
+    <node id="PetrusPatria" />
+    <node id="silviofariajr" />
+    <node id="JorgeLopesdjc" />
+    <node id="CarlosR12534461" />
+    <node id="RDoelinger" />
+    <node id="cortesdociro" />
+    <node id="Marceloplimajr" />
+    <node id="lyontex54" />
+    <node id="RonisB_oficial" />
+    <node id="capitalismo28" />
+    <node id="mundodlinks" />
+    <node id="Anderso02596365" />
+    <node id="Silva1985Monica" />
+    <node id="CarraroIvanira" />
+    <node id="JorgeBahl" />
+    <node id="neiasantos07" />
+    <node id="Severin83101243" />
+    <node id="HeritoRibeiro" />
+    <node id="vbftavares" />
+    <node id="rubensvaz" />
+    <node id="kimlau_kim" />
+    <node id="DaniloJA2001" />
+    <node id="FatosdeMinas" />
+    <node id="WevertonAVetao" />
+    <node id="SergioG82743147" />
+    <node id="DianaJussara" />
+    <node id="EliasGonVarela1" />
+    <node id="HeloisaVanda" />
+    <node id="BandJornalismo" />
+    <node id="AnaLuizaHolan10" />
+    <node id="AP3009" />
+    <node id="zeg777" />
+    <node id="Juba714" />
+    <node id="JosGarc25084797" />
+    <node id="DermilsonBarros" />
+    <node id="verinhabombard1" />
+    <node id="IbfBispo" />
+    <node id="leandrodlopes" />
+    <node id="Rembodinho" />
+    <node id="Priscil83074509" />
+    <node id="EmanoelVilmar" />
+    <node id="varjao_erick" />
+    <node id="SamukaPatriota" />
+    <node id="elton28alves" />
+    <node id="correio" />
+    <node id="educbrvet" />
+    <node id="ppliberato" />
+    <node id="pelobemdobrasil" />
+    <node id="FerreiraJock" />
+    <node id="LedaGoncales" />
+    <node id="fernandohck" />
+    <node id="VlogdoLisboa" />
+    <node id="RaquelFFPace" />
+    <node id="RolloReal" />
+    <node id="ondrejbraga" />
+    <node id="Miguel_100001" />
+    <node id="donadecasa55" />
+    <node id="PacknessM" />
+    <node id="AlexTrezAs" />
+    <node id="malungorei" />
+    <node id="GuardiaoSandro" />
+    <node id="AngelicaSoprano" />
+    <node id="intracampos" />
+    <node id="edg_rocha" />
+    <node id="ImperialSalty" />
+    <node id="InesCaldas_AM" />
+    <node id="ElisCavi" />
+    <node id="JelderConsultSP" />
+    <node id="LeopoldoMorgado" />
+    <node id="EdiG00589485" />
+    <node id="aspasia_maria" />
+    <node id="jm_jonet" />
+    <node id="MVM_News" />
+    <node id="DarkMjj" />
+    <node id="TescariRubens" />
+    <node id="joao_flucas" />
+    <node id="belluccis" />
+    <node id="LenniMarqs" />
+    <node id="diraquel" />
+    <node id="edil_polito" />
+    <node id="AnaMartinsGomes" />
+    <node id="DBarata" />
+    <node id="paulofr14132397" />
+    <node id="RIJUFEDRI" />
+    <node id="Flavio30131851" />
+    <node id="Oliverra_pintad" />
+    <node id="SHIFTERpt" />
+    <node id="barmadespain" />
+    <node id="Sanner13357036" />
+    <node id="LiliannTiago" />
+    <node id="opropriofaka" />
+    <node id="_ZuleikaBrand_" />
+    <node id="SlfPG" />
+    <node id="CarlaNa44830228" />
+    <node id="Geraldo14752141" />
+    <node id="WLCDG" />
+    <node id="JFLMonteiro" />
+    <node id="athelstanlovesu" />
+    <node id="JosAntn47225351" />
+    <node id="EvaldoPimentel" />
+    <node id="M4th3u5engtel09" />
+    <node id="esqrever" />
+    <node id="ManuelaDavila" />
+    <node id="Elizabettamura" />
+    <node id="PauloHartungES" />
+    <node id="coelho_rodrigo" />
+    <node id="VidalThiago_" />
+    <node id="neves_mariana95" />
+    <node id="CarlosJosMalaq1" />
+    <node id="MarcusJnior8" />
+    <node id="Reidealmeida1" />
+    <node id="Aristidesol" />
+    <node id="MamedeCacilda" />
+    <node id="mvpsantos" />
+    <node id="scarparo75" />
+    <node id="Omarbjr" />
+    <node id="PlenoNews" />
+    <node id="MagooMito" />
+    <node id="Geanesa64267041" />
+    <node id="GdnSantos18" />
+    <node id="forumpandlr" />
+    <node id="cmrninthedark" />
+    <node id="CentralEleicoes" />
+    <node id="SidneyGump" />
+    <node id="Juliafrancs" />
+    <node id="ntemoutra" />
+    <node id="chillzuha" />
+    <node id="iasminSilva2006" />
+    <node id="lawrencekaki" />
+    <node id="folklorxtrend" />
+    <node id="LaraLuaf" />
+    <node id="Marlycarla1" />
+    <node id="somosalianca" />
+    <node id="AG21D" />
+    <node id="vdevandresa" />
+    <node id="_Fabinhu_R_" />
+    <node id="peraltathay" />
+    <node id="renjuniverses" />
+    <node id="teseonze" />
+    <node id="earthexiw" />
+    <node id="Sanre25" />
+    <node id="isabelcrist_" />
+    <node id="Himundo" />
+    <node id="ojedaelson" />
+    <node id="eixopolitico" />
+    <node id="Ne17Ssa" />
+    <node id="vpN8CteZ3SPnDci" />
+    <node id="7minutos_news" />
+    <node id="CunhaElderson" />
+    <node id="dx7ctt" />
+    <node id="ayanatriz" />
+    <node id="RainhaLux_" />
+    <node id="Daensasgirl" />
+    <node id="ozirismg" />
+    <node id="cardbriz" />
+    <node id="gonpaachiro" />
+    <node id="habitt_styles" />
+    <node id="jffss76" />
+    <node id="FlaMoliesi" />
+    <node id="Werban" />
+    <node id="Chalamet1302" />
+    <node id="RobertoSouzaeS1" />
+    <node id="scaredylae" />
+    <node id="BolsoPatriota22" />
+    <node id="Direitudo1" />
+    <node id="waterphnx" />
+    <node id="carlaphn" />
+    <node id="dimacgarcia" />
+    <node id="ademarodrigues2" />
+    <node id="renata_anon" />
+    <node id="yourboydeny" />
+    <node id="greedy_mp3" />
+    <node id="madilightwood" />
+    <node id="rxfinhxz" />
+    <node id="felishish" />
+    <node id="neyncsp" />
+    <node id="iG" />
+    <node id="GlaucoPortela" />
+    <node id="Valter11239931" />
+    <node id="Sick_boyXx" />
+    <node id="Atilalobo" />
+    <node id="MJBaldinoC" />
+    <node id="VemPraRua_br" />
+    <node id="marioamores89" />
+    <node id="__ktlnb" />
+    <node id="Vc_Decide_" />
+    <node id="frasersland" />
+    <node id="Luailudidax" />
+    <node id="mrgreenreall" />
+    <node id="ladodpatriota" />
+    <node id="FlaSempre_" />
+    <node id="alealmeidas_" />
+    <node id="onlyfcbk" />
+    <node id="Fernand40949298" />
+    <node id="valeriasobreir1" />
+    <node id="oyagomarx" />
+    <node id="Vickystages" />
+    <node id="isabiully" />
+    <node id="sgfoIkIore" />
+    <node id="backthefuturs" />
+    <node id="ejmorais59" />
+    <node id="HlioFreire5" />
+    <node id="carlaayres" />
+    <node id="carlosfestval" />
+    <node id="10vandinha" />
+    <node id="R0D3S" />
+    <node id="nossyrrahfds1" />
+    <node id="Bruninhakkkjj" />
+    <node id="coelho_mikaela" />
+    <node id="marillhen" />
+    <node id="onIyahri" />
+    <node id="xofannamags" />
+    <node id="tenofheartsx" />
+    <node id="dxxRai" />
+    <node id="BernardoVaz14" />
+    <node id="alepaiva11" />
+    <node id="EngZini" />
+    <node id="OSociocrata" />
+    <node id="anthonyeliasrj" />
+    <node id="BetoLss" />
+    <node id="CiceroProfessor" />
+    <node id="andrezaperes5" />
+    <node id="OPedroMaximo" />
+    <node id="Thiago37288861" />
+    <node id="jairbolsonaro" />
+    <node id="juliss2027" />
+    <node id="partidonovo30" />
+    <node id="a_lins" />
+    <node id="profallankardec" />
+    <node id="RaffinhaSouza2" />
+    <node id="chagas_rogeria" />
+    <node id="RoseliRose17" />
+    <node id="OGloboPolitica" />
+    <node id="Almir47903483" />
+    <node id="costamauricio7" />
+    <node id="PCO29" />
+    <node id="RodrigoTroppo" />
+    <node id="amiltonocr" />
+    <node id="iraideshair" />
+    <node id="Corbo66857308" />
+    <node id="Carolmph" />
+    <node id="warleymaximian" />
+    <node id="jorgecosta" />
+    <node id="pedrodlou" />
+    <node id="theonlycecilia" />
+    <node id="PadraoAlexandre" />
+    <node id="MEstevaoSoares" />
+    <node id="AnaMaclaren" />
+    <node id="Roberto75330681" />
+    <node id="mtessi21" />
+    <node id="KleberC67320430" />
+    <node id="madrilenha" />
+    <node id="jovensdobloco" />
+    <node id="CamosElmo" />
+    <node id="raimund97452751" />
+    <node id="EdmirSilva1" />
+    <node id="flavialefevre" />
+    <node id="chellomarques" />
+    <node id="MariaHe85291008" />
+    <node id="Helisoncosta3" />
+    <node id="Fernandophalcao" />
+    <node id="E1970B" />
+    <node id="NildaBarboza11" />
+    <node id="plmesquita" />
+    <node id="ananias_1979" />
+    <node id="FbioGentil2" />
+    <node id="Rosi_2808" />
+    <node id="MimosodoSul" />
+    <node id="ClauCouto38" />
+    <node id="vidarteecologia" />
+    <node id="sunsshade" />
+    <node id="SandraSolange12" />
+    <node id="GacheMarcos" />
+    <node id="MarciaS55581046" />
+    <node id="marakarina" />
+    <node id="LuksWit" />
+    <node id="prudentemarlene" />
+    <node id="HlioGeraldoDeC1" />
+    <node id="MEGAZORDEOPRES1" />
+    <node id="EurimartMa" />
+    <node id="Xandsjm" />
+    <node id="JooBenites11" />
+    <node id="paulocutia" />
+    <node id="robsonglopes45" />
+    <node id="MarioMeiraNeve1" />
+    <node id="Settisw" />
+    <node id="Claudio_8877" />
+    <node id="Grfuracao" />
+    <node id="angelica_perina" />
+    <node id="1976Mnc" />
+    <node id="almeid4drew" />
+    <node id="cescadu" />
+    <node id="juliames" />
+    <node id="FranceS02650166" />
+    <node id="botelhorobson1" />
+    <node id="loureno_fran" />
+    <node id="kerlenrs" />
+    <node id="MatheusLeone_" />
+    <node id="sergiolagomide" />
+    <node id="Eliete_Ora" />
+    <node id="claremibueloni" />
+    <node id="abripi" />
+    <node id="FDuarte23" />
+    <node id="DrJlioCsarVasc2" />
+    <node id="LugeSandra" />
+    <node id="DIEFERSON775" />
+    <node id="EmNomedaRosa2" />
+    <node id="BelaMegale" />
+    <node id="kelvinsilva191" />
+    <node id="JeffinhoCosta4" />
+    <node id="egty" />
+    <node id="majorgabdf" />
+    <node id="NdiaBaptistell3" />
+    <node id="Augusto74634111" />
+    <node id="TridicoMeire" />
+    <node id="LuVe76578540" />
+    <node id="lucianaccc" />
+    <node id="AlexJnior12" />
+    <node id="evairbiosp" />
+    <node id="rocoguima" />
+    <node id="Ticostacruz" />
+    <node id="Rita19761618" />
+    <node id="MarlyMms" />
+    <node id="MarcosEducacao" />
+    <node id="albertojrandrad" />
+    <node id="DeputadoFederal" />
+    <node id="tadeu_alves" />
+    <node id="GuilhermeTom" />
+    <node id="Luitzr" />
+    <node id="Messi59013213" />
+    <node id="TheInterceptBr" />
+    <node id="bugaraky" />
+    <node id="KELISVALENTIM" />
+    <node id="cheilejane" />
+    <node id="LulaSilvaLivre" />
+    <node id="LucianeAzeredo" />
+    <node id="cesaraasantana" />
+    <node id="ImprensaBrasil1" />
+    <node id="VovoWerine" />
+    <node id="linsaquiles" />
+    <node id="PerukaKatia" />
+    <node id="Paunamoleiranow" />
+    <node id="MSK182931" />
+    <node id="valdemimiro42" />
+    <node id="acidigital" />
+    <node id="Characato22" />
+    <node id="pacheco_wilson" />
+    <node id="JuarezBorges62" />
+    <node id="NaRealPo1" />
+    <node id="EmersonXIIILC" />
+    <node id="UharteArakil" />
+    <node id="PunkyBolsonaro" />
+    <node id="celsohl" />
+    <node id="Roberto24605509" />
+    <node id="PauloPestana13" />
+    <node id="BCPolitica" />
+    <node id="DaianOliveiraSP" />
+    <node id="Rihanna_20fenty" />
+    <node id="hugobbezerra" />
+    <node id="Beleza1965Pura" />
+    <node id="fabianacecin" />
+    <node id="AgraNunes" />
+    <node id="soniaguerra867" />
+    <node id="ADentuuu" />
+    <node id="NeusaSteinbach" />
+    <node id="zebedeudascoves" />
+    <node id="KailanRickelme_" />
+    <node id="Lidcar3" />
+    <node id="jairobmello" />
+    <node id="Saodionisio" />
+    <node id="Alessandrourb15" />
+    <node id="Washing58962455" />
+    <node id="jotauele1" />
+    <node id="viracasacas" />
+    <node id="odio_nao" />
+    <node id="MarceloPintoBA" />
+    <node id="occ2013" />
+    <node id="thicarvalho95" />
+    <node id="clovistmarques" />
+    <node id="Fabicd23" />
+    <node id="LisHelenaRodri2" />
+    <node id="kvieirac" />
+    <node id="FilippoPitanga" />
+    <node id="Mulher_Noticia" />
+    <node id="Pollima36" />
+    <node id="PeloiMaycon" />
+    <node id="EUGENIOlimasant" />
+    <node id="coito_cristina" />
+    <node id="moreira_uallace" />
+    <node id="FrancysCharlie" />
+    <node id="Wendell03928603" />
+    <node id="betcarneiro" />
+    <node id="CaldasEdinilson" />
+    <node id="AnaLcia10582816" />
+    <node id="mariliacoutoesi" />
+    <node id="profrafasantana" />
+    <node id="acg747" />
+    <node id="arthursemtavola" />
+    <node id="joerotica" />
+    <node id="Elaine03781323" />
+    <node id="MarcosRN1981" />
+    <node id="Cardoso16178436" />
+    <node id="pedrodaltro" />
+    <node id="hubrism3" />
+    <node id="Simonefilo" />
+    <node id="GERALDO86493688" />
+    <node id="Claudia03268410" />
+    <node id="leonorvargas20" />
+    <node id="ALuizCosta" />
+    <node id="AEspiritas" />
+    <node id="herson_herbster" />
+    <node id="TerraEspiritual" />
+    <node id="AramisBarros" />
+    <node id="SturtSilva" />
+    <node id="ChrisCRFla" />
+    <node id="MARAVI85757445" />
+    <node id="TiagoJFerreira" />
+    <node id="mersonVieira" />
+    <node id="GregSoFre" />
+    <node id="EFurinho" />
+    <node id="cottaflavio" />
+    <node id="WilsonO60174658" />
+    <node id="BrunoMa44328446" />
+    <node id="Adriano76936504" />
+    <node id="TelmaGuimares8" />
+    <node id="EdgardHeusy" />
+    <node id="JosAndersonFer5" />
+    <node id="Barreto269" />
+    <node id="JulianoPA10" />
+    <node id="gprepublica" />
+    <node id="Cleuza2021" />
+    <node id="StaLuziaEsteio" />
+    <node id="timoteofsr" />
+    <node id="MrcioSa03493741" />
+    <node id="malokero_loko" />
+    <node id="marcelopjs" />
+    <node id="CalicedoChico" />
+    <node id="dudurusso" />
+    <node id="NayPerseverar" />
+    <node id="Zehromildo" />
+    <node id="marivalentimdf" />
+    <node id="AnaLima191287" />
+    <node id="Isisovski" />
+    <node id="DanielLampur" />
+    <node id="JayMarino20" />
+    <node id="Arlindo71123942" />
+    <node id="isabellaianelli" />
+    <node id="caroldartora13" />
+    <node id="JeanCarlosAS1" />
+    <node id="CasillasCasil10" />
+    <node id="acordeiprocrime" />
+    <node id="edilonson" />
+    <node id="carlosrafer" />
+    <node id="Datricia" />
+    <node id="aldebaran13PT" />
+    <node id="WeebbZ" />
+    <node id="ahoylavs" />
+    <node id="aguimaraes" />
+    <node id="FranTroeger" />
+    <edge source="folha" target="jcnogueiras">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="ClausFarscape">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Marcioal1971">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="erison_s_lima">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="wilderlove_mg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="paivatuc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="AnddreHC">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="jmm45_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="MoniCezimbra">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="heliopaz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="verabrilhante1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Ram1Felipe">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="MRBernardo_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="FernandoRGJesu1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="RduMar2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="edno01">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="primasilenciosa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="viega29">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="lendo_no_frio">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="naninaleo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Concurseiro32">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="agimediata">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Mariade83890111">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="LeoLibertino">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="DavidRozar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="JGZZZO">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="SanguineEliane">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="EruIlvatar10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="uairraul">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="guilafirmino">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Griesbach_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Lica2018">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="junior_cpt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="btu_dj">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="CrancoDo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="aravenjpg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="SeedScience">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="tiflografia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="PauloRo56323041">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="petetreze">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="De2011vargas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="cegaliii">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="CarlosH68608002">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="jusano1968">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="marciopaz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Jonhconstsntine">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="brenohge">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="Izaltinobduart1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha" target="_evso">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="folha_mundo" target="jmm45_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="UOLNoticias" target="digitarotexto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="UOLNoticias" target="jmm45_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="UOLNoticias" target="EmanoelVilmar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="comculturaearte" target="treski98">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="comculturaearte" target="beatrizsilvacs">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="comculturaearte" target="catarinabento99">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Marquin68880061" target="niltonviscaino">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marquin68880061" target="sandra_miria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marquin68880061" target="DuduCompanheiro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="UOL" target="jmm45_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="UOL" target="JbrenoJorge">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prof_Adelino_" target="IlzaAntniadeSo1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prof_Adelino_" target="Rob_Pollo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="PauloRicadobs">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="dansrodr">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="RafaelG64084392">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="Mac1984Pat">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="eu_fa_tima">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="RegisLSerpa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="LuciaCa25989954">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="FabioLe79441763">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="RoneySoares14">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="EdyRodrigues88">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="cortesdociro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="Marceloplimajr">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="CarraroIvanira">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="DermilsonBarros">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="BetoLss">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="CamosElmo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="MariaHe85291008">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="FranceS02650166">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dep_padrejoao" target="LugeSandra">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profeborto" target="PedroLi41542560">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profeborto" target="RightwayLeo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="profeborto" target="BarbosaIraci">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="BrasilPost13" target="LeSartori2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BrasilPost13" target="jganico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Patrici95539848">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Irancenildo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="alissonpantuza">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Junior10297390">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="cicatriz06">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MuriloNuud">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MineOrion">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Tri04Maria">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Soniamfbarbosa">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Beth9Rosa">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="SERGIOSAJU1">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Alvarob42">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="JorgeFe76186279">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Edson63741803">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="AndersonSman">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="SilvaMarcosrj">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Antonio02828110">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Assuno65543547">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="amparo83934203">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Sueli62577140">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="carlosBiola">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Tita68318927">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="NACILIA">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="FLAVIONOGUEIRA">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="edishi62">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="AlessandroMrc16">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="nildodornelas">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MARCOAN61721374">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="elson_fragno">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="mauriliosique11">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="marcelofi1978">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="mauromdsd">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="vagnoferreirali">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="williamfsgv">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="boikomarta">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="anerikel">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Clodoal32241459">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Welling97404083">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="GilmarR17392478">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="cdouglasdiniz">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="maycon19903">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="laragalhardo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="vita_teodoro">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="NM47309289">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="V4ldeir0fic">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ecoleila">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="RennyoMelo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MartinhoSsa">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="helenagsoo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Fernand00livier">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Wellingtomaanjo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="PATRlOTAS">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ItamarRibeiroD8">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="FabimBrasil">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Eduardost38">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ElinanRaiz38">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ednaldo53383712">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="derDeOliveiraL2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="EdsonGPlobao">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Alessan12225995">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="almirpiccoli">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="avaldetaro">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="jairbianco66">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="HumbertoAntun12">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="viajantebx">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="NinnoValerio">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="anarecipriani">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="c_acfreitas">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="12Pbpaulo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="jldiniz1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="JoaoFar55605420">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="LeonySousa6">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="sandramariaram5">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ManuelFabio10">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="saulomunizc">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Renata86285002">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="SammirSouza">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="PauloLucindo1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="FlavioL24182062">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Fabi65207143">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="rosyfarias">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="rayfonsecaneto">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="EdimilsonNunes5">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Rdebusa">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="wprotheus">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="marcelosalest">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="VMattos63">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Wgner">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Dulobs1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="JeanFabricioCo1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ZevelosoX">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="fabiocs">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="suzyfleury">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="duchaves">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="AngeloGenta">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Mmoreirabarreto">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="montandonet">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Luciola68148379">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Fe2Forca">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="fcrf30">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="AriCaodaglio">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="eng_trabeduardo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MVerdenssen">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="paulopsbln">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="luizhbcosta">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="marcf7">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Nascime88935799">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="RafaelRAM827">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="JoseOliveirado9">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="CarlosA59996008">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="DiegoSilvaBra38">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="DRRIBOLDI">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="mc19092018">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Victor50539039">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="WillameMoreira">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ADILSON03968655">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="JoiaLeo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="jlgoncalez">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Rodrigo06177033">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Monikysaquino">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Luciano86440887">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MargarethGoes4">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="jjamaral2gmail1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ElcirLopes">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MarinaB32292241">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="tito_bastos">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="RosanaMarciaG">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="chicaobmf">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="WESLEYWBP">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Ordemprogresso7">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ulissescastanha">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Srgio45860350">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="LeniltonMendes">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Marlycarla1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="neyncsp">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="R0D3S">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="alepaiva11">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="andrezaperes5">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Thiago37288861">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="costamauricio7">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MEstevaoSoares">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Roberto75330681">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="mtessi21">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="madrilenha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="E1970B">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="NildaBarboza11">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Rosi_2808">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MimosodoSul">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="ClauCouto38">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="SandraSolange12">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="GacheMarcos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MEGAZORDEOPRES1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Xandsjm">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="paulocutia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="robsonglopes45">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MarioMeiraNeve1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="angelica_perina">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="cescadu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="juliames">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="loureno_fran">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Eliete_Ora">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="claremibueloni">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="DrJlioCsarVasc2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="DIEFERSON775">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="egty">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="evairbiosp">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MarlyMms">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Luitzr">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="cesaraasantana">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="MSK182931">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="valdemimiro42">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="pacheco_wilson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="PunkyBolsonaro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="celsohl">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Roberto24605509">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="PauloPestana13">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="AgraNunes">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="soniaguerra867">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Alessandrourb15">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Fabicd23">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="LisHelenaRodri2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="PeloiMaycon">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="EUGENIOlimasant">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="coito_cristina">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Cardoso16178436">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="EFurinho">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="DanielLampur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="JayMarino20">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SigaGazetaBR" target="Arlindo71123942">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CsardeBarros3" target="emolivei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="melmaridis" target="OluisHeavy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="melmaridis" target="b3ablanco">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ninabrodri" target="lucc_marcell">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ninabrodri" target="Diogo_02000">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ninabrodri" target="renata_cads">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ninabrodri" target="gabe_masc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="olhardigital" target="luanadarby_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="eleicoeseuropa" target="Gustavo_Paim">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="eleicoeseuropa" target="GuilhermeKarlBR">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="eleicoeseuropa" target="claudiarsleo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="eleicoeseuropa" target="ThiagoCabralNL">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="eleicoeseuropa" target="DrowerPeter">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="leandroruschel" target="cleber_rodf">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="leandroruschel" target="CaluReis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="leandroruschel" target="leandrodlopes">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="luisnassif" target="JMeyer04317299">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ClaudiaCostin" target="angelolelio">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="brom_elisa" target="PaulinoElison">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="JosNunesPereir2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="ConceicaoBassi">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="RtbMoyses">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Josegarcian">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Beth9Rosa">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Andr20399566">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Jor_Cristina">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="MCarmoBorges">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Gianamonteggia">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="fagundes_nario">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="luis_mascarello">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="LUCIANO32346360">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="KamillaES">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="JosoirL">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="dudu_santana05">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="AndrPatriota">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="cclpositive">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="dineisalazar">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="RUTOLIMAC">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="albericojr1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="wellintonviana1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="FabimBrasil">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="IsaacOliveira57">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="zigfriddark">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="MAURICI03301501">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="jr_vaine">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="ediberto_lopes">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="FernandoJAIRBO1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="AnaLuci19497629">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Marc49machado">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="LopesErbis">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="seque_alberto">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="LuhStrachulski">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="joao_merisio">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="tbmvb">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="SammirSouza">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="NelsonR69631579">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="IRISGENA">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="EderRamos08">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="AndrettoCintia">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="picapau115">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="CacicAjuricaba">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="roger_rrfreitas">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="montandonet">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Moura17941876">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="BRENOJOSANDRAD1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Henriquealysso">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="andidreia1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Carlos91433342">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="opressor_es">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="IvoCard48587304">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="LeonardoMDias2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="VivianeEASilva">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="JosAndr37881509">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Omzan">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="edufazol">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="GuiSilv22214851">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Ricardokiari">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="maurobueno65">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="Zasandri">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="brom_elisa" target="joneswave">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="CNNBrasil" target="Reginalamaral">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="CNNBrasil" target="edcar1811">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="CNNBrasil" target="machadofnd">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="CNNBrasil" target="annylton">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="rcbmcarlos">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="LavosieP">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="elisangelacali2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="chrcolorado">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="MedeirosNeto8">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="carlosalberarte">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="suruagymotta">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="EderGSantos1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="DireitaNego">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JooBati47318744" target="carri_guilherme">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="EvandroIvymax59">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="NadedjaM">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="JoaoEdilsonDoN1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="novaes_monteiro">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="AleDireita">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="MauroVFilho">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="alexand46154681">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="RogrioJosPinto1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="Mariado57742075">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="freu_rodrigues" target="Anny815892212">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="efigeni57887554" target="JoseDanelon1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="MariaXimeness">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="TerezaFelipeGo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="Ru1zV1cente">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="euteleca">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="ignatti_junior">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="LgConservador">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="AdrianiCaap">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="MGun45">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="Marcelodwc45tr0">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DestroAvante" target="reginatto38">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JNegocios" target="rubensousa20">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="VoxGilmar" target="marioasouza72">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="IzaVicent" target="gabriellerochag">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="InigoMo36202487">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="hsm_fisico">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="ginholol">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="SauloSoaresRei1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="PabloCe66063786">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="VonosoM">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="joaogerardobr">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="CiroGomes_2022_">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="FernandoStrosc2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="Manoelmjunior">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="daniarriba">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="LautertThiago">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="EstadoReformis1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="silasv2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="ferraz_antonio">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="marsubarb">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="antonio21612138">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="msantop">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="AlemSincer1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="CiristaBaiano">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="MarcyellS">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="MarliFerreiraBo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="JuarezDuarte">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="Pedroojota29">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="FariasGois">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="nogueiradiego">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="jatobatiago">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="Fran56326917">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="rsandroedu">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="MariadaGraaTav3">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="victorgrabois1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="politiccharts">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="CruzeiroSaff">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="renatovilhena">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="henriquelorezo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="PercepcaoN">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="amorim_pericles">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="ddeinhass1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="Maicon12rosa12">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ibopeenquetes" target="munizhenrique1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="RobertoVieira10" target="WinicyusRodrig5">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="claudio_hahn" target="EvandroIvymax59">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="claudio_hahn" target="BobM08083734">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="claudio_hahn" target="Centuriao1000">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="claudio_hahn" target="Maroka56029229">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="NETINHOOFICIAL3" target="dear58teacher">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="nhbrazil" target="saynarry">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="nhbrazil" target="iCakeHrry">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="nhbrazil" target="lwtdog">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="paulonbjr" target="Fabiano_30">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="AlanQCarvalho" target="PbSerafim">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="camposmello" target="_Cesar______">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="camposmello" target="nhmaruyama">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="camposmello" target="dudapoeta64">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="camposmello" target="ReSalmoiraghi">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ECO_PT" target="FilippoGiov">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ECO_PT" target="canteiro_hugo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="MarchaDaFamili1" target="Gotardosc">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="joaomartinswav" target="InesCisneiros">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Menino_maiki" target="LinkedInprosjob">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Menino_maiki" target="RicardoCarmo_">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Menino_maiki" target="Glaaalves">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Menino_maiki" target="MarkInxperto">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Menino_maiki" target="ii_baltazar">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JNOGUEI48946827" target="sophiezb">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JNOGUEI48946827" target="SilvaGSilva2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="JNOGUEI48946827" target="GabrielBalog">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Metropoles" target="DosJanaiara">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="herom_jabbur">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="Marina29043841">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="MontanhasGerais">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="caayoalves">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="JoseeMadeira">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="Eliene52954058">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="bicudo2000">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="EAzouf">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Metropoles" target="srdarsie">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Uniarea" target="QBertulli">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="AprendaComTC" target="LeticiaMatsuura">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="MelilloDinis" target="anacampos_cb">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="tiagoserracunha" target="pedro_mfcardoso">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="tiagoserracunha" target="imjusthugo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="mendesluizpaulo" target="Flags1996">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="mendesluizpaulo" target="joaoteixeira578">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="mendesluizpaulo" target="14Orlando04">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="mendesluizpaulo" target="deiahallak">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="mendesluizpaulo" target="Ronaldo_Lopes72">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="daviddinis" target="TiagoCatrola77">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="daviddinis" target="isabel_tn">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="daviddinis" target="LilianaValente">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="daviddinis" target="carlosv96851">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="daviddinis" target="zeg777">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="eugeniorib1958" target="CrespoSandrini">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="PATRlOTAS" target="Anderso02596365">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Estadao" target="bentiviamarelin">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Estadao" target="mvpsantos">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="nelsonpaffi" target="Airtonplima">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="euronewspt" target="verdeamarelou">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ConservadorDf" target="1984Patriota">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JJRConservador" target="SniaGom83571980">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JJRConservador" target="serlifreitas94">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="JJRConservador" target="SalesZednik">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="GloboNews" target="oyarzabalsolan1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="GloboNews" target="MVM_News">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CezarPGuimares1" target="silvasidney">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="soumaisanapolis" target="ManoelRigheti">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="em_com" target="ElisetePena">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="NelsonR69631579" target="CarlosJosMalaq1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NelsonR69631579" target="MarcusJnior8">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="muylaerte" target="alegianedo">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="fdantonio9999" target="FernandoAraraq">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="fdantonio9999" target="EliasGonVarela1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1003Marcelo" target="francis06692406">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1003Marcelo" target="Alexmas1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="MendesOnca" target="CandiaCrf">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="MendesOnca" target="JCSimonassi">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="valmi67990438" target="georgesp74">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Publico" target="AHeartThinking">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Publico" target="diraquel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Publico" target="JFLMonteiro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SocMilitar" target="DiasDougfotos">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Be_neviani" target="Conteudo_Livre">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Be_neviani" target="htutini">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="eduguim" target="MariaCidada1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="eduguim" target="CESARAMARALNET1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="eduguim" target="Trunfim">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="eduguim" target="aldebaran13PT">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ronneyribeiro" target="Tonycos44909508">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="CamaraLisboa" target="CarolinaFresc03">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Rubens_Zen" target="soniaTangari">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="roxmo" target="FernandoMagri">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="roxmo" target="JuarezBorges62">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="andreoli69" target="christianccruz_">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="andreoli69" target="dorinha91">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="rtppt" target="SarreaIza">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="rtppt" target="PatrickSarrea">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="EduardoJesusAn4">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="LuizOficialFe25">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Centuriao1000">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="lopesgenevaldo1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="lyontex54">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="RonisB_oficial">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="varjao_erick">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Gianamonteggia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="aspasia_maria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Eduardost38">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="RIJUFEDRI">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Flavio30131851">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Oliverra_pintad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="SlfPG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="WLCDG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Elizabettamura">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="scarparo75">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Omarbjr">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TerraBrasilnot" target="Geanesa64267041">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="InteriorizarPND" target="Fonsecazeno">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="DenunciaBurlas" target="jmedeiros71">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ZazaS_" target="RogrioJosPinto1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Ezequiasns" target="josimar1966">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Ravoline" target="mmaia2709">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Ravoline" target="ptriste">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="lulafalcao" target="dudapoeta64">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="LulaOficial" target="SandraLuizadea2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="asbeiras" target="Carlos007Joao">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="gauchotchejulio" target="alanbarretoso">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="jairleite096" target="dinhopereira01">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="josiaslide">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="SusanaARRUDA5">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="us_oliveira">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="leovasco10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="GrandeArquyteto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="jleites58">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="Vasques_Flavio9">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="PauloAr90832347">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="Luciano38258831">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="fau_lf">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="AeromacleParts">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="LigiaGuerra7">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="patrocinio_7">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="Gavazziesther28">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="pri2013">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="jose_csampaio">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="MonicaFig1970">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="ValoisCida">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="MargarethAlva12">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="OrlandoGalati3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="CardosoZL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="PetrusPatria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="silviofariajr">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="JorgeLopesdjc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="CarlosR12534461">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="RDoelinger">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="Silva1985Monica">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="CacicAjuricaba">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="Severin83101243">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="HeritoRibeiro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="GuardiaoSandro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairleite096" target="LeopoldoMorgado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LilianaValente" target="joao_flucas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LRobertoBarroso" target="CelMatrio">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LRobertoBarroso" target="SelmaRosario16">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LRobertoBarroso" target="RafaelMGobbo1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LRobertoBarroso" target="berlitz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LRobertoBarroso" target="vbftavares">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LRobertoBarroso" target="fernandohck">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LRobertoBarroso" target="DarkMjj">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="brasildefato" target="rogerio17312297">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="brasildefato" target="ubaldobarbosa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="brasildefato" target="HeloisaVanda">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="William_Botelh" target="Gabriel6828">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bernilton" target="GalvaoLione">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bernilton" target="willer3d3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bernilton" target="AP3009">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OObserv89445948" target="lisztd1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OObserv89445948" target="DaniloJA2001">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="capitalismo28" target="mundodlinks">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JorgeBahl" target="neiasantos07">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JorgeBahl" target="verinhabombard1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="rubensvaz" target="kimlau_kim">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="FatosdeMinas" target="WevertonAVetao">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SergioG82743147" target="DianaJussara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SergioG82743147" target="CarlaNa44830228">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SergioG82743147" target="JosAntn47225351">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BandJornalismo" target="AnaLuizaHolan10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BandJornalismo" target="IbfBispo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BandJornalismo" target="_Fabinhu_R_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BandJornalismo" target="ozirismg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Juba714" target="JosGarc25084797">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Juba714" target="raimund97452751">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Juba714" target="Helisoncosta3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rembodinho" target="Priscil83074509">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SamukaPatriota" target="elton28alves">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SamukaPatriota" target="Geraldo14752141">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SamukaPatriota" target="Datricia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="correio" target="educbrvet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="correio" target="malungorei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="correio" target="AngelicaSoprano">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ppliberato" target="pelobemdobrasil">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="FerreiraJock" target="LedaGoncales">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="VlogdoLisboa" target="RaquelFFPace">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RolloReal" target="ondrejbraga">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RolloReal" target="AlexTrezAs">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="RolloReal" target="EdiG00589485">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Miguel_100001" target="donadecasa55">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Miguel_100001" target="InesCaldas_AM">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Miguel_100001" target="TescariRubens">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Miguel_100001" target="edil_polito">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Miguel_100001" target="athelstanlovesu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Miguel_100001" target="M4th3u5engtel09">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PacknessM" target="varjao_erick">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="intracampos" target="edg_rocha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="intracampos" target="ImperialSalty">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="intracampos" target="jm_jonet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ElisCavi" target="JelderConsultSP">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ElisCavi" target="paulofr14132397">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="belluccis" target="LenniMarqs">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="AnaMartinsGomes" target="DBarata">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SHIFTERpt" target="barmadespain">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sanner13357036" target="LiliannTiago">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="opropriofaka" target="_ZuleikaBrand_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="opropriofaka" target="EvaldoPimentel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="opropriofaka" target="MamedeCacilda">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="opropriofaka" target="GdnSantos18">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ManuelaDavila" target="MVM_News">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PauloHartungES" target="coelho_rodrigo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="VidalThiago_" target="neves_mariana95">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reidealmeida1" target="Aristidesol">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PlenoNews" target="MagooMito">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PlenoNews" target="Grfuracao">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="cmrninthedark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Juliafrancs">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="ntemoutra">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="chillzuha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="iasminSilva2006">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="lawrencekaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="folklorxtrend">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="LaraLuaf">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="vdevandresa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="peraltathay">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="renjuniverses">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Sanre25">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="isabelcrist_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Himundo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="dx7ctt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="ayanatriz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="RainhaLux_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Daensasgirl">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="cardbriz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="gonpaachiro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="habitt_styles">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="jffss76">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="FlaMoliesi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Werban">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Chalamet1302">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="scaredylae">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="waterphnx">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="yourboydeny">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="greedy_mp3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="madilightwood">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="rxfinhxz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="felishish">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Sick_boyXx">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="MJBaldinoC">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="__ktlnb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="frasersland">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Luailudidax">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="mrgreenreall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="alealmeidas_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="onlyfcbk">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="oyagomarx">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Vickystages">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="isabiully">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="sgfoIkIore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="backthefuturs">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Bruninhakkkjj">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="coelho_mikaela">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="marillhen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="onIyahri">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="xofannamags">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="tenofheartsx">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="dxxRai">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="theonlycecilia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="LuksWit">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="Settisw">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="forumpandlr" target="almeid4drew">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="SidneyGump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="ojedaelson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="CunhaElderson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="RobertoSouzaeS1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="carlaphn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="Atilalobo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="Vc_Decide_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="FlaSempre_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CentralEleicoes" target="nossyrrahfds1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="somosalianca" target="AG21D">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="somosalianca" target="vpN8CteZ3SPnDci">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="teseonze" target="earthexiw">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="eixopolitico" target="Ne17Ssa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="eixopolitico" target="7minutos_news">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="eixopolitico" target="renata_anon">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BolsoPatriota22" target="Direitudo1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BolsoPatriota22" target="ejmorais59">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BolsoPatriota22" target="10vandinha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BolsoPatriota22" target="JJRConservador">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dimacgarcia" target="ademarodrigues2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dimacgarcia" target="Valter11239931">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dimacgarcia" target="ladodpatriota">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dimacgarcia" target="HlioFreire5">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dimacgarcia" target="BernardoVaz14">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="iG" target="GlaucoPortela">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="VemPraRua_br" target="marioamores89">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fernand40949298" target="valeriasobreir1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="carlaayres" target="carlosfestval">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="EngZini" target="OSociocrata">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="EngZini" target="OPedroMaximo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jairbolsonaro" target="juliss2027">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="partidonovo30" target="a_lins">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profallankardec" target="RaffinhaSouza2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profallankardec" target="iraideshair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profallankardec" target="KleberC67320430">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profallankardec" target="FbioGentil2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profallankardec" target="JooBenites11">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profallankardec" target="eu_fa_tima">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="profallankardec" target="EmNomedaRosa2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="chagas_rogeria" target="RoseliRose17">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="Almir47903483">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="amiltonocr">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="AnaMaclaren">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="ClauCouto38">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="Claudio_8877">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="botelhorobson1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="kerlenrs">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="OGloboPolitica" target="occ2013">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PCO29" target="RodrigoTroppo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="PCO29" target="Corbo66857308">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolmph" target="warleymaximian">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolmph" target="EdmirSilva1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolmph" target="Fernandophalcao">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolmph" target="MarciaS55581046">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolmph" target="EurimartMa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolmph" target="1976Mnc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolmph" target="FDuarte23">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jorgecosta" target="pedrodlou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jorgecosta" target="jovensdobloco">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jorgecosta" target="sunsshade">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="flavialefevre" target="chellomarques">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="plmesquita" target="ananias_1979">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="plmesquita" target="marakarina">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="prudentemarlene" target="HlioGeraldoDeC1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MatheusLeone_" target="sergiolagomide">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MatheusLeone_" target="albertojrandrad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="kelvinsilva191">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="JeffinhoCosta4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="Augusto74634111">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="LuVe76578540">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="lucianaccc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="AlexJnior12">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="MarcosEducacao">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="GuilhermeTom">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="Messi59013213">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="KELISVALENTIM">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="cheilejane">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="Paunamoleiranow">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="LucianeAzeredo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="KailanRickelme_">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="thicarvalho95">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="clovistmarques">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="Pollima36">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BelaMegale" target="Lidcar3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="majorgabdf" target="NdiaBaptistell3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="majorgabdf" target="TridicoMeire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="majorgabdf" target="rocoguima">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ticostacruz" target="Rita19761618">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ticostacruz" target="kvieirac">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="tadeu_alves">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="UharteArakil">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="fabianacecin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="NeusaSteinbach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="zebedeudascoves">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="jairobmello">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="Saodionisio">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="Washing58962455">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="jotauele1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="MarceloPintoBA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DeputadoFederal" target="Wendell03928603">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TheInterceptBr" target="bugaraky">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LulaSilvaLivre" target="LucianeAzeredo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LulaSilvaLivre" target="Lidcar3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LulaSilvaLivre" target="MARAVI85757445">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ImprensaBrasil1" target="VovoWerine">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="linsaquiles" target="PerukaKatia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="acidigital" target="Characato22">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NaRealPo1" target="EmersonXIIILC">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BCPolitica" target="DaianOliveiraSP">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BCPolitica" target="Rihanna_20fenty">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BCPolitica" target="ADentuuu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="BCPolitica" target="acordeiprocrime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="hugobbezerra" target="Beleza1965Pura">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="viracasacas" target="odio_nao">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="FilippoPitanga" target="Mulher_Noticia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="FrancysCharlie">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="profrafasantana">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="acg747">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="MarcosRN1981">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="pedrodaltro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="hubrism3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="Simonefilo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="ALuizCosta">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="SturtSilva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="TiagoJFerreira">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="mersonVieira">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="cottaflavio">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="EdgardHeusy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="moreira_uallace" target="JosAndersonFer5">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="betcarneiro" target="CaldasEdinilson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="betcarneiro" target="AnaLcia10582816">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="betcarneiro" target="mariliacoutoesi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="betcarneiro" target="Elaine03781323">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="betcarneiro" target="TerraEspiritual">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="betcarneiro" target="AramisBarros">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="joerotica">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="ChrisCRFla">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="GregSoFre">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="dudurusso">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="Isisovski">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="isabellaianelli">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="WeebbZ">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="arthursemtavola" target="ahoylavs">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="GERALDO86493688" target="Claudia03268410">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="AEspiritas" target="herson_herbster">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="WilsonO60174658" target="BrunoMa44328446">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Adriano76936504" target="TelmaGuimares8">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Barreto269" target="JulianoPA10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="gprepublica" target="Cleuza2021">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="StaLuziaEsteio" target="timoteofsr">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MrcioSa03493741" target="malokero_loko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MrcioSa03493741" target="JeanCarlosAS1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MrcioSa03493741" target="CasillasCasil10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MrcioSa03493741" target="carlosrafer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="marcelopjs" target="CalicedoChico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NayPerseverar" target="Zehromildo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="marivalentimdf" target="AnaLima191287">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="caroldartora13" target="CandiaCrf">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="caroldartora13" target="edilonson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="aguimaraes" target="FranTroeger">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

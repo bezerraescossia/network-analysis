@@ -5,24 +5,29 @@ from os.path import join
 import json
 from datetime import datetime, timedelta
 
+# Valor variável para cada dia de extração
 days_ago = 1
 
+# Função para a autenticação com a API
 def authentification():
-    my_file = open("keys.txt", "r")
-    content = my_file.read()
-    API_KEY, API_SECRET_KEY = content.split("\n")
+    my_file = open("keys.txt", "r") # Obtenção das chaves de acesso
+    content = my_file.read() # leitura do arquivo de text com chaves de acesso
+    API_KEY, API_SECRET_KEY = content.split("\n") # salvando chaves em variáveis
     my_file.close()
 
-    twitter = Twython(API_KEY, API_SECRET_KEY)
-    authentication_tokens = twitter.get_authentication_tokens()
-    print(authentication_tokens['auth_url'])
-    VERIFIER = input('Enter verification code: ')
+    twitter = Twython(API_KEY, API_SECRET_KEY) # Acesso ao Twitter por meio do Twython e chaves de acesso
+    authentication_tokens = twitter.get_authentication_tokens() # Tokens para autenticação
+    print(authentication_tokens['auth_url']) # Imprime na tela o site para autenticação do usuário
+    VERIFIER = input('Enter verification code: ') # Salva o código imputado pelo usuário
 
-    twitter = Twython(API_KEY, API_SECRET_KEY,
-                  authentication_tokens['oauth_token'],
-                  authentication_tokens['oauth_token_secret'])
+    # Verificação do código imputado
+    twitter = Twython(
+        API_KEY, API_SECRET_KEY,
+        authentication_tokens['oauth_token'],
+        authentication_tokens['oauth_token_secret'])
     authorized_tokens = twitter.get_authorized_tokens(VERIFIER)
     
+    # Instancia do Twython com acesso final
     twitter = Twython(
         API_KEY, API_SECRET_KEY,
         authorized_tokens['oauth_token'],
@@ -31,8 +36,9 @@ def authentification():
 
     return twitter
 
+# Função para extrair tweets
 def get_tweets(twitter):
-    NUM_TWEETS_TO_FETCH = 1000
+    NUM_TWEETS_TO_FETCH = 1000 
     cursor = twitter.cursor(
         twitter.search, q='eleições 2022', 
         count=100, result_type='mixed', 
@@ -41,6 +47,7 @@ def get_tweets(twitter):
     search_tweets = list(itertools.islice(cursor, NUM_TWEETS_TO_FETCH))
     return search_tweets
 
+# Filtrar Tweets para coletar somente os que são retweets
 def filter_retweets(search_tweets):
     retweets = []
     for tweet in search_tweets:
